@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import Navbar from './shared/Navbar'
 import FilterCard from './FilterCard'
-import Job from './job';
+import Job from './Job.jsx';
 import { useSelector } from 'react-redux';
 
 //const jobsArray = [1, 2, 3, 4, 5, 6, 7, 8];
